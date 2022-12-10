@@ -15,7 +15,7 @@
 
     <properties>
         <finalName>demo-springMVC-rest</finalName>
-        <springVersion>5.1.5.RELEASE</springVersion>
+        <springVersion>6.0.0</springVersion>
     </properties>
 
     <build>
